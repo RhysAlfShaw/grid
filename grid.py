@@ -158,6 +158,7 @@ class Cell:
             self._neighbours += 1
 
 
+
 class Grid:
     """
     The class contains functionality for a two-dimensional grid of
